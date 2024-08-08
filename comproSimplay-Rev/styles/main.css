@@ -78,7 +78,7 @@ nav {
 
 .hero {
     padding: 50px 20px;
-    background-color: #ffffff;
+   
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin: 20px;
     border-radius: 8px;
@@ -208,7 +208,6 @@ nav {
 
 .about {
     padding: 50px 20px;
-    background-color: #ffffff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin: 20px;
     border-radius: 8px;
@@ -316,7 +315,6 @@ nav {
     flex: 1;
     max-width: 600px;
     margin: 20px;
-    background-color: #ffffff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     overflow: hidden;
@@ -356,7 +354,7 @@ nav {
 
 .legalitas-detail h2 {
     font-size: 1.5em;
-    color: #333;
+    color: black;
     margin: 0 0 10px;
     position: relative;
     overflow: hidden;
